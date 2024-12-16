@@ -1,0 +1,14 @@
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\bin\Debug\net8.0\my-csharp.exe
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\bin\Debug\net8.0\my-csharp.deps.json
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\bin\Debug\net8.0\my-csharp.runtimeconfig.json
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\bin\Debug\net8.0\my-csharp.dll
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\bin\Debug\net8.0\my-csharp.pdb
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\my-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\my-csharp.AssemblyInfoInputs.cache
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\my-csharp.AssemblyInfo.cs
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\my-csharp.csproj.CoreCompileInputs.cache
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\my-csharp.dll
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\refint\my-csharp.dll
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\my-csharp.pdb
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\my-csharp.genruntimeconfig.cache
+C:\Users\shafqat Ali\OneDrive\Desktop\Csharp-app\my-csharp\obj\Debug\net8.0\ref\my-csharp.dll

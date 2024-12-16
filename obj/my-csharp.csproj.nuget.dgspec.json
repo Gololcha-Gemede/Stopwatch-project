@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\shafqat Ali\\OneDrive\\Desktop\\Csharp-app\\my-csharp\\my-csharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\shafqat Ali\\OneDrive\\Desktop\\Csharp-app\\my-csharp\\my-csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\shafqat Ali\\OneDrive\\Desktop\\Csharp-app\\my-csharp\\my-csharp.csproj",
+        "projectName": "my-csharp",
+        "projectPath": "C:\\Users\\shafqat Ali\\OneDrive\\Desktop\\Csharp-app\\my-csharp\\my-csharp.csproj",
+        "packagesPath": "C:\\Users\\shafqat Ali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shafqat Ali\\OneDrive\\Desktop\\Csharp-app\\my-csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shafqat Ali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
